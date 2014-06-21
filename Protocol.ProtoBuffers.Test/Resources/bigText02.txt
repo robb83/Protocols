@@ -1,0 +1,634 @@
+﻿
+<!DOCTYPE html>
+<html lang="hu"><head>
+<meta charset="iso-8859-2" />
+
+
+<title>Kiverekedte a sikert a magyar diódarendszer</title>
+<link rel="canonical" href="http://www.uzletresz.hu/penzugy/20140613-kiverekedte-a-sikert-a-magyar-diodarendszer.html" />
+<meta property="og:url" content="http://www.uzletresz.hu/penzugy/20140613-kiverekedte-a-sikert-a-magyar-diodarendszer.html" />
+<meta property="og:site_name" content="http://www.uzletresz.hu/"/>
+<link rel="image_src" href="http://static.origos.hu/s/img/i/1406/20140613ledes-izzo-led-led-dioda1.JPG" />
+<meta property="og:image" content="http://static.origos.hu/s/img/i/1406/20140613ledes-izzo-led-led-dioda1.JPG" />
+<meta name="title" content="Kiverekedte a sikert a magyar diódarendszer" />
+<meta property="og:title" content="Kiverekedte a sikert a magyar diódarendszer" />
+<meta name="description" content=" Mindössze két deszkapéldány elég lett volna, hogy demonstrálják, jó helyre került az uniós pályázati pénz. A kutatásra és fejlesztésre kapott 650 millió forintot azonban komoly saját tőkével toldották meg, így lebutított sémák helyett inkább 18 tagú diódacsaládot produkáltak. Magyar oltalom..." />
+<meta property="og:description" content=" Mindössze két deszkapéldány elég lett volna, hogy demonstrálják, jó helyre került az uniós pályázati pénz. A kutatásra és fejlesztésre kapott 650 millió forintot azonban komoly saját tőkével toldották meg, így lebutított sémák helyett inkább 18 tagú diódacsaládot produkáltak. Magyar oltalom..." />
+<meta name="medium" content="news" />
+
+
+
+<link rel="alternate" type="application/rss+xml" title="Üzletrész RSS" href="http://static.origos.hu/contentpartner/rss/uzletresz.xml" />
+<meta name="language" content="hu">
+<meta http-equiv="content-language" content="hu">
+
+
+<link rel="shortcut icon" type="image/x-icon" href="
+http://static.origos.hu/s/20130517/
+img/uzletresz/favicon.ico" />
+<link rel="apple-touch-icon" href="
+http://static.origos.hu/s/20130517/
+img/uzletresz/apple-touch-icon.png">
+<link rel="apple-touch-icon-precomposed" href="
+http://static.origos.hu/s/20130517/
+img/uzletresz/apple-touch-icon-precomposed.png">
+
+<link rel="Shortcut Icon" type="image/ico" href="
+http://static.origos.hu/s/20130517/
+img/uzletresz/favicon.ico" />
+
+<!--[if lt IE 9]>
+<link rel="stylesheet" href="
+http://static.origos.hu/s/2014031832210/
+css/uzletresz/ie.min.css" />
+<script src="http://static.origos.hu/s/js/kozos/IE9.js"></script>
+<![endif]-->
+
+<link rel="stylesheet" href="
+http://static.origos.hu/s/2014031832210/
+css/uzletresz/uzletresz.dev.css" />
+<link rel="stylesheet" href="
+http://static.origos.hu/s/2014031832210/
+css/uzletresz/uzletresz.cikk.min.css" />
+<link rel="stylesheet" href="
+http://static.origos.hu/s/2014031832210/
+css/uzletresz/season.css" /><meta http-equiv="Content-Script-Type" content="text/javascript" />
+<meta http-equiv="imagetoolbar" content="no" />
+<meta http-equiv="content-Style-Type" content="text/css" />
+<meta name="author" content="ORIGO" />
+<meta name="robots" content="all" />
+<meta http-equiv="cache-control" content="no-cache" />
+<meta http-equiv="expires" content="Thu, 31 Jan 1999 08:52:00 GMT" />
+<meta http-equiv="pragma" content="no-cache" />
+<meta http-equiv="refresh" content="1740" />
+</head><body id="uzletresz-penzugy">
+
+<!-- linkcounter new /penzugy/20140613-kiverekedte-a-sikert-a-magyar-diodarendszer.html -->
+
+        <!-- FEJLÉC -->
+        <div id="header-container">
+
+<div id="top-magnum" class="ad clearfix" role="banner">
+<div class="goAdverticum" id="zone2474897"><var class="priority">100</var></div>
+<div class="goAdverticum" id="zone2474890"><var class="priority">99</var></div>
+<span>hirdetés</span>
+</div>
+
+
+<div id="header" class="clearfix">
+        
+				<div id="search">
+					<form method="get" action="http://www.uzletresz.hu/talalatok/index.html">
+                    <input id="kereso-szo" type="text" name="q" role="search" />
+					<button class="ir" id="s-btn" title="Keress!">Keress!</button>
+					</form>
+                </div>
+                <a id="logo" class="ir" href="/" title="">Üzletrész</a>
+
+
+	
+<div id="nameday"><p>2014. június 13. <span>péntek</span></p> <span class="thename">Anett</span>, <span class="thename">Antal</span></div>
+
+
+	
+<div id="weather" class="derult" onclick="window.open('http://www.origo.hu/idojaras/orszagos/index.html','_self');">
+	<span>14°C / 30°C</span>
+	<span>Napos idő várható </span>
+</div>
+
+
+
+</div>        </div>
+
+        <div id="nav-container">
+            <div id="nav" role="navigation">
+                <ul class="nav-menu">
+                    <li id="nav-home"><a class="nav-icon nav-item-sprite nav-item-home" href="/">Üzletrész - címlap</a></li>
+                    <li id="nav-vallalkozas"><a class="nav-item nav-item-vallalkozas" href="/vallalkozas/index.html">Vállalkozás</a></li>
+                    <li id="nav-penzugy"><a class="nav-item nav-item-penzugy" href="/penzugy/index.html">Pénzügy</a></li>
+                    <li id="nav-eladas"><a class="nav-item nav-item-eladas" href="/eladas/index.html">Eladás</a></li>
+                    <li id="nav-sikerek"><a class="nav-item nav-item-sikerek" href="/sikerek/index.html">Sikerek</a></li>
+					<li id="nav-direkt"><a class="nav-item nav-item-direkt" href="http://direkt.uzletresz.hu">Ügyfélszerzés</a></li>
+                </ul>
+				<ul id="social">
+					<li id="s-text">Kövess minket!</li>
+					<!-- <li><a href="#" title="Facebook" id="s-fb"></a></li>
+					<li><a href="#" title="Twitter" id="s-tw"></a></li> -->
+					<li><a href="http://static.origos.hu/contentpartner/rss/uzletresz.xml" title="RSS" id="s-rss"></a></li>
+					<!-- <li><a href="#" title="LinkedIn" id="s-li"></a></li>
+					<li><a href="#" title="Youtube" id="s-yt"></a></li> -->
+				</ul>
+                <a target="_blank" href="http://gdehu.hit.gemius.pl/hitredir/id=cjg7MEdseI3HkgVsIm7YjqRuXfZG9KMxrf2scvX4pyr._7/fastid=gjhxjbmjjhivrpdhcdxakwtkpqkx/stparam=xamnbtghwz/url=http://www.uzletitelekom.hu/"><img class="t-stamp" alt="Az oldal támogatója a Telekom" src="http://static.origos.hu/s/1/img/uzletresz/t-stamp.png" /></a>
+            </div>
+        </div>
+
+
+
+<div id="szponz-cont" style="display: block; position: relative;"></div>
+        <!-- TARTALOM -->
+        <div id="site-content">
+            <div id="article-wrap" class="clearfix">
+<!-- cikk címkék -->
+<div id="kapcs-cimke" class="kapcs-cimke"><span>Címkék:</span><a id="temacimke" href="http://cimkezes.origo.hu/cimkek/kkv/index.html?tag=kkv" title="kkv">kkv</a>,<a href="http://cimkezes.origo.hu/cimkek/kutatas-es-fejlesztes/index.html?tag=kutat%E1s+%E9s+fejleszt%E9s" title="kutatás és fejlesztés">kutatás és fejlesztés</a>,<a href="http://cimkezes.origo.hu/cimkek/led-technologia/index.html?tag=LED-technol%F3gia" title="LED-technológia">LED-technológia</a></div>
+
+
+
+
+
+
+<script type="text/javascript" xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:user="http://mycompany.com/mynamespace">
+       var sysuri = "/penzugy/20140613-kiverekedte-a-sikert-a-magyar-diodarendszer.html"
+       var logoText = ""
+       var logoLink = ""
+       var logoImg = "none"
+     </script><div id="article-head" xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:user="http://mycompany.com/mynamespace">
+<h1>Kiverekedte a sikert a magyar diódarendszer</h1>
+<div id="address"><span class="article-author" rel="author">Esze Dóra</span><span id="article-date" pubdate="pubdate" datetime="2014-06-13T09:30">2014. 06. 13. 09:30</span></div>
+</div>
+<div id="article-tip" class="referer-tip" xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:user="http://mycompany.com/mynamespace"></div><script type="text/javascript" xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:user="http://mycompany.com/mynamespace"> 
+		var strModDate = '2014. 06. 13., 9:30';
+		if (strModDate.substr(16,1) == ':') strModDate = strModDate.substr(0,15) + '0' + strModDate.substr(15,strModDate.length);
+		var strNowDate = '2014. 06. 13., 09:55';
+	   </script><div id="article-center" xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:user="http://mycompany.com/mynamespace">
+<div id="article-info">
+<div id="article-share" class="clearfix">
+<div class="share-hover"></div><a href="javascript:void(0);" title="" id="share-fb"></a><a href="javascript:void(0);" title="" id="share-tw"></a><a href="javascript:void(0);" title="" id="share-gp"></a><a href="javascript:void(0);" title="" id="share-em"></a><div id="comment-count"><span class="komment-title">Szóljon<br>hozzá!</span></div>
+</div>
+<div id="article-tags"></div>
+</div>
+<div id="article-text">
+<div class="article-lead">
+<p>Mindössze két deszkapéldány elég lett volna, hogy demonstrálják, jó helyre került az uniós pályázati pénz. A kutatásra és fejlesztésre kapott 650 millió forintot azonban komoly saját tőkével toldották meg, így lebutított sémák helyett inkább 18 tagú diódacsaládot produkáltak. Magyar oltalom lett belőle, egy hajszálnyira a találmánytól, amely kemény küzdelemmel vette be a német piacot.</p>
+</div>
+<h2>Majd a minőség marketingel</h2>
+<p>&#8222;A semmiből futottunk neki a tervünknek a Budapesti Műszaki Egyetem és a Veszprémi Pannon Egyetem fejlesztőivel együtt&#8221; &#8211; kezdi Nagy Zsolt, a HungaroLux Light Kft. ügyvezetője. &#8211; &#8222;Egyszerre kellett versenyezni a legnagyobb márkákkal, például az Osrammal és a Philipsszel, és azzal a huszonötezer nyolcszáz kínai céggel, amelyek az áraikkal bénítják le a versenyt. A fénykibocsátásig nagyon egyszerű eljuttatni a diódákat, de a minőségnek egészen más szempontjai vannak: hosszú élettartamot, kiváló fényhasznosítást és nagyon alacsony fogyasztást egyszerre csak a leggondosabb tervezéstől lehet várni. Persze világítani a tömeggyártott ledek is világítanak &#8211; egy darabig.&#8221;</p>
+<div class="newpic middle"><img src="http://static.origos.hu/s/img/i/1406/20140613ledes-izzo-led-led-dioda1.JPG?w=666&amp;h=444" width="666" height="444"><div>
+<p class="short_description">A karbantartott dióda akár 120 ezer órán át világít</p><span class="source">Forrás: HungaroLux Light Kft.</span></div>
+</div>
+<h2>A PearlLight a lényeg</h2>
+<p>A HungaroLux Light ugyan ledes ipari rendszerekkel foglalkozik, de a vállalat maga nem gyárt ledet. A zászlóshajó-termékük a PearlLight család nevű közvilágítási rendszer. Nagy Zsolt lapunknak elmondta, hogy 2008-ban vágtak bele a fejlesztésébe, az iparágban húzónévnek számító Cree márkájú diódák felhasználásával. &#8222;Saját optikai rendszert fejlesztettünk, ugyanis míg a fénykibocsátás a hagyományos fényforrásoknál 360°, addig a led 120°-os szögben sugározza a fényt. Csak egy irányba sugároz, ebből a laikus számára is érthető, hogy a felmelegedés komoly problémákat vet fel. Az ugyanis tévhit, hogy a led nem melegszik &#8211; ráadásul nagyon pici helyen összpontosul a hő. A nagy gyártóknak nem érdekük 25 éves élettartamú berendezéseket gyártani, a diódák pedig megfelelő körülmények között akár 120 ezer órán át működnek. Többek közt ebben láttuk meg a piaci rést.&#8221;</p>
+<p>A projekt híre eljutott egy német vállalatcsoporthoz Nagy Zsolt szakmai ismeretségi körében, aki meglátta az üzleti potenciált a PearlLightban. Megkezdődött a tesztelés, két éven át tartottak a mérések, a próbavilágítások és &#8211;szerelések, több lámpatest több hónapon át napi 24 órát üzemelt. Két és fél  év után, 2013 augusztusában beindultak a szállítások. A német piac telített a nemzetközi márkákkal, a PearlLightról pedig, mint az várható volt, korábban senki sem hallott. Hogy a garanciavállalás kérdését megoldják, vegyesvállalatot hoztak létre.</p>
+<h2>A nemzetközi piac sétagalopp a hazai viszonyokhoz képest</h2>
+<p>A HungaroLux Light Kft. jelenleg évente több ezer darabos megrendelést szolgál ki. Mind 2012-ben, mind tavaly körülbelül 120 millió forintos bevételükből érték el a pozitív nullás nyereséget, körülbelül minden forintot visszaforgatnak: ahogy az uniós pénzt is jócskán megtoldották annak idején, most sem tőkeinjekcióból költöznek és építenek fel egy új gyárat a XVII. kerületben. Alkalmazottaik számra 10, az öntöde, az elektromos alkatrészek gyártása, a fröccsöntés kiszervezésével pedig a gyárból szerzi jövedelme javát még 40 ember. A PearlLight már több ízben nyert el közbeszerzést ott, ahol nagy márkák is indultak. Amikor német állami tenderre kapnak meghívást, azon a német partnerével, a KIZ Grouppal létrehozott vegyesvállalat, a LIS Gmbh (Ledlighting Industrial Systems) vesz részt. &#8222;Személyes fájdalmam, hogy senki sem lehet próféta a saját hazájában&#8221; &#8211; mondja Nagy Zsolt. &#8211; &#8222;Itthon a közbeszerzés finoman szólva sajátosan működik, a műszaki szempontok néha előkerülnek, de az érdekérvényesítő képesség dönt, a termék minősége mindegy. További érdekesség, hogy GE Lighting olyan rendszer kifejlesztésére kapott félmilliárd forint támogatást, ami Hejőkeresztúron több mint egy éve működik.&#8221;</p>
+<p>Az ipari és közvilágítási rendszerek után a PearlLight termékcsalád most készül a német piacra a beltéri világítással is betörni. A piaci teszteken remekül teljesítettek, most gyürkőznek a szabványokat érintő akadályokkal. A PearlLight használati oltalom alatt áll, a tárgyalások szinte az utolsó fázisba jutottak az osztrák és a horvát piacon. Mindehhez az ügyvezető csak ennyit tesz hozzá: &#8222;Ki hinné, hogy mindezek tükrében is a magyar piac a legkeményebb dió.&#8221;</p>
+</div>
+<div id="fb-recommend">
+<div id="fb-root"></div><script>(function(d, s, id) {
+		                                                 var js, fjs = d.getElementsByTagName(s)[0];
+		                                                 if (d.getElementById(id)) {return;}
+		                                                 js = d.createElement(s); js.id = id;
+		                                                 js.src = "//connect.facebook.net/hu_HU/all.js#xfbml=1";
+		                                                 fjs.parentNode.insertBefore(js, fjs);
+		                                               }(document, 'script', 'facebook-jssdk'));</script><div class="fb-like" data-send="false" data-width="645" data-show-faces="true" data-action="recommend"></div>
+</div>
+<div id="comments_templates" style="display: none">
+<ul>
+<li class="conversation"></li>
+</ul>
+<ul class="comment-children">
+<li class="comment-post"></li>
+</ul>
+<h5 class="pre-moderate-title">Ez a hozzászólás moderálásra vár:</h5>
+<ul>
+<li class="moderate-post"><span class="moderate-time"></span><p></p>
+</li>
+</ul>
+<div class="post-content">
+<div class="post-head"><span class="publisher-name"></span><span class="post-date" datetime="2013-03-03T23:23"></span></div>
+<div class="post-body">
+<p></p>
+</div>
+<div class="post-foot"><a href="javascript:void(0)" title="Jelentem" class="post-report" onclick="kommentfe.reportComment(this)"></a><a href="javascript:void(0)" class="post-share-btn" title="Megosztom!" onclick="kommentfe.showShares(this)"></a><a href="javascript:void(0)" class="post-anchor" title="Kérem a linket!" onclick="kommentfe.showPermalink(this)"></a><div class="post-share perma-layer" style="display: none">
+<div><input type="text" onkeyup="kommentfe.keyupPermalink(this, event)"></div><span>A link lemásolva, beilleszthető</span></div><a href="javascript:void(0)" title="" class="post-like" onclick="kommentfe.upComment(this)"><span>(234)</span></a><a href="javascript:void(0)" title="Válaszolok" class="post-reply" onclick="kommentfe.showReplyForm(this)">Válaszolok</a><div class="post-share share-layer" style="display: none">
+<ul>
+<li><a href="javascript:void(0)" title="Facebook" class="post-share-fb"></a></li>
+<li><a href="javascript:void(0)" title="Iwiw" class="post-share-w"></a></li>
+<li><a href="javascript:void(0)" title="Google+" class="post-share-gp"></a></li>
+<li><a href="javascript:void(0)" title="Twitter" class="post-share-tw"></a></li>
+<li><a href="javascript:void(0)" title="Tumblr" class="post-share-tumblr"></a></li>
+</ul><a href="#" title="Mégse" class="layer-close">Mégse</a></div>
+</div>
+</div>
+<div class="more-comment more-comment-button"><a href="javascript:void(0)" title="Még több komment">Még több hozzászólás</a></div>
+<div class="more-comment lazy-load-button"><a href="javascript:void(0)" title="Kommentek betöltése" onclick="kommentfe.doLazyLoad()">Kommentek betöltése</a></div>
+<div class="more-comment no-comment-yet"><span>Még nem szólt senki hozzá. Légy te az első!</span></div>
+<div id="nickname-chooser">
+		Kérjük válasszon becenevet: <input type="text" id="nickname-input" onkeyup="kommentfe.keyupNickname(this)"><div>
+			és adja meg e-mail címét: <input type="text" id="twitmail-chooser"></div><button onclick="kommentfe.setNickname()" value="Ezt választom">Ezt választom</button></div>
+<div id="lazyload_container" style="text-align: center; padding: 1em"><input type="button" value="Mutasd a kommenteket plíz!" onclick="kommentfe.lazyLoad()" style="background-color: #016695; border: none; border-radius: 3px 3px 3px 3px; color: #FFFFFF; cursor: pointer; font-family: 'Source Sans Pro',Arial,Helvetica,sans-serif; font-size: 150%; font-weight: 700; padding: 5px 13px;"></div>
+<div id="kommentfe-alert-layer" class="comment-layer info-layer">
+<p>A hozzászóláshoz be kell lépni!</p>
+<div class="layer-btns"><button class="form-btn btn-alert-ok" type="button" onclick="kommentfe.alertOk(this)">OK</button><button class="form-btn btn-alert-cancel" type="button" onclick="kommentfe.alertCancel(this)">Mégse</button></div>
+</div>
+<div id="kommentfe-login-layer" class="comment-layer login-layer"><a href="javascript:void(0)" class="layer-close" title="Bezárom"></a></div>
+</div>
+<div id="comments" class="article-comments">
+<div id="comment-head">
+<div id="comment-filter"><span>Sorrend - </span><select id="comment-order" class="styled" onchange="kommentfe.changeOrder(this)"><option value="desc" selected>Legfrissebb</option>
+<option value="asc">Legrégibb</option></select></div>
+<h4>Hozzászólások <span>(0)</span></h4>
+</div>
+<div class="comment-form">
+<div class="comment-form-header">
+<div class="comment-username"><span class="comment-user">Felhasználónév</span><span class="comment-length">(3000/3000)</span></div><a href="javascript:void(0)" class="user-exit" onclick="kommentfe.logout()" title="Kilépés">Kilépés</a><a href="javascript:void(0)" title="Formázás" class="text-edit" onmouseover="kommentfe.formatOver(this)" onmouseout="kommentfe.formatOut(this)">Formázás</a><div class="text-edit-layer"><p>Szövegen belüli kiemelhető egy szövegrész, ha elé és mögé a következő karaktereket írjuk: <i>_dőlt_</i> , <b>*félkövér*</b>; számozott lista #, felsorolásjeles *, mindkettő után szóköz. A http://-vel kezdődő linkeket a rendszer automatikusan felismeri.</p></div>
+</div>
+<div class="textarea-wrap"><textarea onfocus="kommentfe.focusCommentArea(this)" onkeyup="kommentfe.keyupCommentArea(this, event)" maxlength="3000" placeholder="Belépéshez kattintson ide..." id="comment-textarea" class="textarea" rows="" cols=""></textarea><button class="form-btn btn-submit" type="button" onclick="kommentfe.addComment(this)">Hozzászólás</button><button class="form-btn btn-reset" type="reset" onclick="kommentfe.cancelCommitForm(this)">Mégse</button><div class="comment-faq">A <a href="http://www.origo.hu/post-it/blog/20090325-hozzaszolas-moderalasi-alapelvek.html?pIdx=1" title="Moderálási elvek" target="_blank">moderálási elvekbe</a> ütköző hozzászólásokat szerkesztőségünk bármikor törölheti. <a href="http://www.origo.hu/post-it/blog/20090325-hozzaszolas-moderalasi-alapelvek.html" title="Felhasználási feltételek" target="_blank">Felhasználási feltételek</a>.
+				<div class="mail-alert"><input type="checkbox" id="mail-alert" onchange="kommentfe.subscribeChange(this)"><label for="mail-alert">Értesítést kérek, ha a cikkhez hozzászólás érkezik.</label></div>
+</div>
+</div>
+</div>
+<div class="comment-pass" style="display: none">
+<p>Sikeres hozzászólás!</p><span>Ehhez a cikkhez a hozzászólás csak jóváhagyás után jelenik meg.</span></div>
+<div id="comment-login-container"></div>
+<div id="nickname-chooser-container"></div>
+<div class="pre-moderate" style="display: none">
+<div id="moderate-body">
+<h5>Jóváhagyás után megjelenő hozzászólásaid</h5>
+<ul id="moderate-list"></ul>
+</div>
+</div>
+<div id="shadow"></div>
+<div id="comment-wrap">
+<ul id="comment-list"></ul>
+</div>
+</div>
+</div>
+
+
+                <!-- JOBB OLDAL -->
+                <div id="article-side">
+
+<div class="ad clearfix" role="banner">
+<div class="goAdverticum" id="zone2474903"><var class="priority">98</var></div>
+<span>hirdetés</span>
+</div>
+
+                        <!-- FB LIKE DOBOZ -->
+                        <div id="fb-root"></div>
+                        <script type="text/javascript">(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) {return;} js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/hu_HU/all.js#xfbml=1"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));</script>
+                        <div id="like-box" class="section-box small">
+                            <h2 class="section-title"><span>Kövess minket a Facebookon!</span></h2>
+                            <div class="fb-like-box" data-header="false" data-height="240" data-href="http://www.facebook.com/uzletresz" data-stream="false" data-width="308"></div>
+                        </div>
+                        <!-- LEGFRISSEBB CIKKEK -->
+                        <div id="latest-box" class="section-box unordered-list-box small">
+                            <h2 class="section-title"><span>Legfrissebb cikkek</span></h2>
+   
+                            <ul class="latest-articles">
+
+<li><a title="Magyar startupok egy New York-i innovációs expón" href="http://www.uzletresz.hu/vallalkozas/20140612-magyar-startupok-egy-new-yorki-innovacios-expon.html">Magyar startupok egy New York-i innovációs expón</a></li><li><a title="Itt a nyár első csődbe ment utazási irodája!" href="http://www.uzletresz.hu/vallalkozas/20140612-itt-a-nyar-elso-utazasi-iroda-csodje.html">Itt a nyár első csődbe ment utazási irodája!</a></li><li><a title="Világbajnokság van, veszünk tévét hitelből" href="http://www.uzletresz.hu/penzugy/20140612-vilagbajnoksag-van-veszunk-tevet-hitelbol.html">Világbajnokság van, veszünk tévét hitelből</a></li><li><a title="Minden, amit tudni akartál a kivándorlásról" href="http://www.uzletresz.hu/vallalkozas/20140611-minden-amit-tudni-akartal-az-elvandorlo-magyarokrol.html">Minden, amit tudni akartál a kivándorlásról</a></li><li><a title="Van még kraft a mezőgazdaságban" href="http://www.uzletresz.hu/penzugy/20140611-van-meg-kraft-a-mezogazdasagban.html">Van még kraft a mezőgazdaságban</a></li><li><a title="Továbbra is mehet a magyar sertéshús Amerikába" href="http://www.uzletresz.hu/penzugy/20140611-tovabbra-is-mehet-a-magyar-serteshus-amerikaba.html">Továbbra is mehet a magyar sertéshús Amerikába</a></li><li><a title="Európa legrangosabb startup-díját nyerte el a Prezi" href="http://www.uzletresz.hu/sikerek/20140611-europa-legrangosabb-startup-dijat-nyerte-el-a-prezi.html">Európa legrangosabb startup-díját nyerte el a Prezi</a></li><li><a title="Eldőlhet a harc az apróhirdetések piacán" href="http://www.uzletresz.hu/penzugy/20140610-eldolhet-a-harc-az-aprohirdetesek-piacan.html">Eldőlhet a harc az apróhirdetések piacán</a></li>
+
+                            </ul>
+                        </div>
+
+<div id="zone2472045" class="goAdverticum"><var class="priority">84</var></div>
+
+
+                        <!-- HÍRLEVÉL DOBOZ-->
+                        <div id="newsletter-box" class="section-box small">
+                            <h2 class="section-title"><span>Iratkozz fel hírlevelünkre!</span></h2>
+
+                            <div class="newsletter-description">
+                                <p class="newsletter-lead">Válogatott <span>üzleti hírek</span>,<br />közvetlenül Neked!</p>
+                                <p class="newsletter-offer">Ajándék <span>Wolf Gábor eBook</span>:<br />Nyerő videó a honlapodra!</p>
+                            </div>
+                            <form class="newsletter-form">
+                                <input type="hidden" name="strand.uzletresz" id="strand" value="true" />
+                                <input type="hidden" name="captcha_url" id="captcha_url" value="" />
+                                <div class="newsletter-input-container">
+                                    <input title="E-mail cím" data-required="true" id="email" name="email" class="newsletter-input has-placeholder" type="text" value="" />
+                                </div>
+                                <div class="newsletter-captcha-image-container">
+                                    <img id="captcha-image" />
+                                    <a class="newsletter-captcha-refresh ir general-button" href="javascript:;">Kép újratöltése</a>
+                                </div>
+                                <div class="newsletter-captcha-container">
+                                    <input title="Ide írd a képen látható szöveget!" data-required="true" id="captcha_response" name="captcha_response" class="newsletter-captcha has-placeholder" type="text" value="" />
+                                </div>
+                                <button class="newsletter-submit-button general-button">Feliratkozom</button>
+
+                                <script type="text/template" id="missing_email">Nem adtad meg az e-mail címedet.</script> 
+                                <script type="text/template" id="invalid_email">A megadott e-mail cím formátuma hibás.</script> 
+                                <script type="text/template" id="missing_captcha_response">Nem adtad meg a képen látható szöveget.</script> 
+                                <script type="text/template" id="invalid_captcha">Rosszul adtad meg a képen látható szöveget!</script> 
+                                <script type="text/template" id="already_signed_up">Már fel vagy iratkozva erre a hírlevélre!</script> 
+                                <script type="text/template" id="service_unavailable">Elnézést kérünk, a szolgáltatás átmenetileg nem érhető el.</script> 
+                            </form>
+                            <div class="newsletter-success-dialog hidden">
+                                <div class="newsletter-success-dialog-content">
+                                    <span title="Bezárás" class="newsletter-dialog-dismiss ir">Bezárás</span>
+
+                                    <p class="newsletter-success-message"><strong>Köszönjük, hogy feliratkoztál<br />a hírlevelünkre! </strong></p>
+                                    <p class="newsletter-success-message">Wolf Gábor ajándék e-könyvét az alábbi gombra kattintva töltheted le!</p>
+
+                                    <a target="_blank" href="http://www.origo.hu/attached/uzletresz/wolfg_origo-bonusz_-_onlinevideo.pdf" class="newsletter-download-button general-button">Ajándék letöltése <span class="raquo">&raquo;</span></a>
+                                </div>
+                            </div>
+                        </div>
+<div class="adbox pradbox">
+<!-- <div class="adbox-title"><span>Van, aki a robotokat szereti</span></div> -->
+<div class="adbox-item">
+<div class="goAdverticum" id="zone2544786"><var class="priority">97</var></div>
+<span>hirdetés</span>
+</div>
+<div class="adbox-item">
+<div class="goAdverticum" id="zone2544789"><var class="priority">96</var></div>
+<span>hirdetés</span>
+</div>
+</div>
+
+
+
+
+<script type="text/javascript">window.tematikusCimke = {label: 'MiniCRM',value: 'MiniCRM', 'default': 'tematikus hetek', category: 'ORI5UZLRE5' };</script>
+
+
+
+                        <!-- TEMATIKUS HETEK DOBOZ-->
+                        <div id="thematic-box" data-url="/ajaxproxy/proxy.php?host_id=105&path=/widget/hetitematika" data-itemstodisplay="7" class="thematic-box hidden unordered-list-box section-box small">
+                            <div class="thematic-box-title">
+                                <p>A hét témája:</p>
+                                <h2>&#160;</h2>
+                            </div>
+                            <ul class="thematic-box-articles">
+                            </ul>
+                            <div class="read-more hidden"><a target="_blank" href="/tematikushet/index.html">A téma további cikkei &rsaquo;</a></div>
+                            <script type="text/template">{{#items}}<li><a href="{{link}}" title="{{description}}">{{title}}</a></li>{{/items}}</script>
+                        </div>                       
+
+                        <!-- SZÁMLÁZZ.HU DOBOZ [szponzorált] -->
+                        <div id="szamlazz-doboz" data-url="/ajaxproxy/proxy.php?host_id=4&path=" data-path="cimke_rss_dynamic/index.html" data-category="ORI5UZLRE5" data-cimke="számlázás" class="section-box section-box-sponsored ordered-list-box small">
+                            <h2 class="section-title"><a target="_blank" href="http://ad.adverticum.net/b/cl,1,73468,2565479,2565493/click.prm"><img src="http://static.origos.hu/s/3/img/uzletresz/szamlazz-mini-logo.png" /></a><span>Számlázás</span></h2>
+   
+                            <div class="loading"></div>
+                            <ol>
+                            </ol>
+                            <div class="read-more"><a target="_blank" href="http://ad.adverticum.net/b/cl,1,73468,2565482,2565493/click.prm">Még több cikk a témában &#8250;</a></div>
+                            <script type="text/template">{{#items}}<li><a href="{{link}}"><span>{{order}}.</span>{{title}}</a></li>{{/items}}</script>
+                        </div>
+                        <!-- LEGNÉPSZERŰBB CIKKEK -->
+                        <div id="popular-box" class="section-box unordered-list-box small">
+                            <h2 class="section-title"><span>Legnépszerűbb cikkek</span></h2>
+   
+                            <ul class="popular-articles">
+
+<li><a href="http://www.uzletresz.hu/vallalkozas/20140611-minden-amit-tudni-akartal-az-elvandorlo-magyarokrol.html" title="Minden, amit tudni akartál a kivándorlásról">Minden, amit tudni akartál a kivándorlásról</a></li><li><a href="http://www.uzletresz.hu/penzugy/20140612-vilagbajnoksag-van-veszunk-tevet-hitelbol.html" title="Világbajnokság van, veszünk tévét hitelből">Világbajnokság van, veszünk tévét hitelből</a></li><li><a href="http://www.uzletresz.hu/penzugy/20140610-mit-nem-eri-meg-hosszan-torleszteni.html" title="Mit nem éri meg hosszan törleszteni?">Mit nem éri meg hosszan törleszteni?</a></li><li><a href="http://www.uzletresz.hu/sikerek/20140611-europa-legrangosabb-startup-dijat-nyerte-el-a-prezi.html" title="Európa legrangosabb startup-díját nyerte el a Prezi">Európa legrangosabb startup-díját nyerte el a Prezi</a></li><li><a href="http://www.uzletresz.hu/penzugy/20140610-eldolhet-a-harc-az-aprohirdetesek-piacan.html" title="Eldőlhet a harc az apróhirdetések piacán">Eldőlhet a harc az apróhirdetések piacán</a></li><li><a href="http://www.uzletresz.hu/penzugy/20140611-van-meg-kraft-a-mezogazdasagban.html" title="Van még kraft a mezőgazdaságban">Van még kraft a mezőgazdaságban</a></li>
+
+                            </ul>
+                        </div>
+<div class="section-box hird_kepes">
+<div class="hk_title section-title"><span>Ajánlat</span></div>
+<div id="zone2784288" class="goAdverticum"></div>
+<div id="zone2784294" class="goAdverticum"></div>
+</div>
+<!-- BANKMONITOR DOBOZ -->
+<iframe frameborder="0" style="border:none;margin:0 0 18px 11px;padding:0;" src="http://www.bankmonitor.hu/sidebox/uzletresz/calculator.htm" width="310" height="490" scrolling="no"></iframe>
+
+
+
+                        <!-- ÁRFOLYAMOK DOBOZ -->
+                        <div id="rates-box" class="section-box small">
+                            <h2 class="section-title"><span>Árfolyamok</span></h2>
+   
+                            <div class="rates-content">
+                                <!-- box db rates -->
+                                <div id="rates_index" class="rates" style="float: none;">
+                                    <div class="arf_grafikbox tema-graph" style="height: 190px;"><div class="chart" id="rates_index_chart"></div></div>
+                                    <div id="fb-ind">
+                                        <div class="show_indication">A fenti értékek piaci indikációk!</div>
+                                    </div>
+                                    
+                                    <div class="tema-tart" style="display: block;">
+                                        <p data-id="949830" class="active"><span class="symbol">EUR/HUF</span><span class="point"></span><span class="change"></span><span class="ratio"></span></p>
+                                        <p data-id="949858"><span class="symbol">USD/HUF</span><span class="point"></span><span class="change"></span><span class="ratio"></span></p>
+                                        <p data-id="949843"><span class="symbol">EUR/USD</span><span class="point"></span><span class="change"></span><span class="ratio"></span></p>
+                                        <p data-id="949860"><span class="symbol">USD/JPY</span><span class="point"></span><span class="change"></span><span class="ratio"></span></p>
+                                        <p data-id="4611743"><span class="symbol">BUX</span><span class="point"></span><span class="change"></span><span class="ratio"></span></p>
+                                        <p data-id="51381806"><span class="symbol">DAX</span><span class="point"></span><span class="change"></span><span class="ratio"></span></p>
+                                        <p data-id="51399539"><span class="symbol">DOW</span><span class="point"></span><span class="change"></span><span class="ratio"></span></p>
+                                    </div>
+                                    <div class="loading"></div>
+                                </div>
+                                <!-- /box db -->
+                                <div class="read-more"><a href="http://www.investor.hu/investor/arfolyamok/" target="_blank">Részletes piaci adatok &rsaquo;</a></div>
+                            </div>
+                        </div>
+
+
+                        <!-- HETI CSŐDLISTA DOBOZ [szponzorált] -->
+                        <div id="heti-csodlista" data-url="/s/partners/uzletresz/ajax/xml/heti_csodlista.xml" class="section-box section-box-sponsored ordered-list-box small">
+                            <h2 class="section-title"><img src="http://static.origos.hu/s/img/uzletresz/opten-mini-logo.png" /><span>Heti csődlista</span></h2>
+   
+                            <div class="loading"></div>
+                            <ol>
+                            </ol>
+                            <div class="read-more"><a target="_blank" href="http://www.opten.hu">Még több a csődlistából &#8250;</a></div>
+                            <script type="text/template">{{#items}}<li><span>{{order}}.</span>{{nev}}</li>{{/items}}</script>
+                        </div>
+                        <!-- HETI FELSZÁMOLÁSI LISTA DOBOZ [szponzorált] -->
+                        <div id="heti-felszlista" data-url="/s/partners/uzletresz/ajax/xml/heti_felszlista.xml" class="section-box section-box-sponsored ordered-list-box small">
+                            <h2 class="section-title"><img src="http://static.origos.hu/s/img/uzletresz/opten-mini-logo.png" /><span>Heti felszámolási lista</span></h2>
+   
+                            <div class="loading"></div>
+                            <ol>
+                            </ol>
+                            <div class="read-more"><a target="_blank" href="http://www.opten.hu">Még több a felszámolási listából &#8250;</a></div>
+                            <script type="text/template">{{#items}}<li><span>{{order}}.</span>{{nev}}</li>{{/items}}</script>
+                        </div>
+
+                        <!-- SZOLGÁLTATÁS GOMBOK -->
+                        <div id="external-buttons" class="section-box small wrap-50-50 clearfix">
+                            <div class="wrap clearfix">
+                                <a class="external-button general-button" href="/uzletresz/szolgaltatasok/adonaptar/index.html"><span class="external-button-label single">Adónaptár <span class="raquo">&raquo;</span></span></a>
+                            </div>
+                            <div class="wrap clearfix">
+                                <a class="external-button general-button" target="_blank" href="http://www.opten.hu/opten/kerdoivek/dijmentes_public/dijmentes_palyazati.php?lang="><span class="external-button-label double">Pályázati<br />előminősítés <span class="raquo">&raquo;</span></span></a>
+                            </div>
+                        </div>
+
+
+                </div>
+	<div style="display:none;" id="ajanloBox">
+		<div id="ajanloBoxHeader">
+			<div class="ajanlo_text_1">ezt olvastad már?</div>
+			<div id="ajanloBox_left" class="active"></div>
+			<div class="ajanlo_text_2"><span>1</span>/5</div>
+			<div id="ajanloBox_right" class="active"></div>
+			<div id="ajanloBox_close"></div>
+		</div>
+		<div id="ajanloBoxContent">
+			<ul>
+				
+<li><a class="img_link" href="http://www.uzletresz.hu/vallalkozas/20140611-minden-amit-tudni-akartal-az-elvandorlo-magyarokrol.html?utm_source=beuszo" title="Minden, amit tudni akartál a kivándorlásról"><img width="120" height="80" src="http://static.origos.hu/s/img/i/1311/20131117-magyarok-az-ukban-bevandorlas-munkanelkuliseg5.jpg?w=120&h=80" /></a><a class="title_link" title="Minden, amit tudni akartál a kivándorlásról" href="http://www.uzletresz.hu/vallalkozas/20140611-minden-amit-tudni-akartal-az-elvandorlo-magyarokrol.html?utm_source=beuszo">Minden, amit tudni akartál a kivándorlásról</a></li><li><a class="img_link" href="http://www.uzletresz.hu/penzugy/20140612-vilagbajnoksag-van-veszunk-tevet-hitelbol.html?utm_source=beuszo" title="Világbajnokság van, veszünk tévét hitelből"><img width="120" height="80" src="http://static.origos.hu/s/img/uzletresz/uzletresz_beuszo_nopict_120x80.png" /></a><a class="title_link" title="Világbajnokság van, veszünk tévét hitelből" href="http://www.uzletresz.hu/penzugy/20140612-vilagbajnoksag-van-veszunk-tevet-hitelbol.html?utm_source=beuszo">Világbajnokság van, veszünk tévét hitelből</a></li><li><a class="img_link" href="http://www.uzletresz.hu/penzugy/20140610-mit-nem-eri-meg-hosszan-torleszteni.html?utm_source=beuszo" title="Mit nem éri meg hosszan törleszteni?"><img width="120" height="80" src="http://static.origos.hu/s/img/i/1406/20140610120743105.jpg?w=120&h=80" /></a><a class="title_link" title="Mit nem éri meg hosszan törleszteni?" href="http://www.uzletresz.hu/penzugy/20140610-mit-nem-eri-meg-hosszan-torleszteni.html?utm_source=beuszo">Mit nem éri meg hosszan törleszteni?</a></li><li><a class="img_link" href="http://www.uzletresz.hu/sikerek/20140611-europa-legrangosabb-startup-dijat-nyerte-el-a-prezi.html?utm_source=beuszo" title="Európa legrangosabb startup-díját nyerte el a Prezi"><img width="120" height="80" src="http://static.origos.hu/s/img/i/1406/20140611prezi-arvai-peter-startup-dij4.JPG?w=120&h=80" /></a><a class="title_link" title="Európa legrangosabb startup-díját nyerte el a Prezi" href="http://www.uzletresz.hu/sikerek/20140611-europa-legrangosabb-startup-dijat-nyerte-el-a-prezi.html?utm_source=beuszo">Európa legrangosabb startup-díját nyerte el a Prezi</a></li><li><a class="img_link" href="http://www.uzletresz.hu/penzugy/20140610-eldolhet-a-harc-az-aprohirdetesek-piacan.html?utm_source=beuszo" title="Eldőlhet a harc az apróhirdetések piacán"><img width="120" height="80" src="http://static.origos.hu/s/img/uzletresz/uzletresz_beuszo_nopict_120x80.png" /></a><a class="title_link" title="Eldőlhet a harc az apróhirdetések piacán" href="http://www.uzletresz.hu/penzugy/20140610-eldolhet-a-harc-az-aprohirdetesek-piacan.html?utm_source=beuszo">Eldőlhet a harc az apróhirdetések piacán</a></li><li><a class="img_link" href="http://www.uzletresz.hu/penzugy/20140611-van-meg-kraft-a-mezogazdasagban.html?utm_source=beuszo" title="Van még kraft a mezőgazdaságban"><img width="120" height="80" src="http://static.origos.hu/s/img/i/1406/20140611tehen-agrarium-mezogazdasag-szarvasmarha-allattenyesztes.jpg?w=120&h=80" /></a><a class="title_link" title="Van még kraft a mezőgazdaságban" href="http://www.uzletresz.hu/penzugy/20140611-van-meg-kraft-a-mezogazdasagban.html?utm_source=beuszo">Van még kraft a mezőgazdaságban</a></li><li><a class="img_link" href="http://www.uzletresz.hu/vallalkozas/20140612-itt-a-nyar-elso-utazasi-iroda-csodje.html?utm_source=beuszo" title="Itt a nyár első csődbe ment utazási irodája!"><img width="120" height="80" src="http://static.origos.hu/s/img/uzletresz/uzletresz_beuszo_nopict_120x80.png" /></a><a class="title_link" title="Itt a nyár első csődbe ment utazási irodája!" href="http://www.uzletresz.hu/vallalkozas/20140612-itt-a-nyar-elso-utazasi-iroda-csodje.html?utm_source=beuszo">Itt a nyár első csődbe ment utazási irodája!</a></li>
+
+			</ul>
+		</div>
+	</div>            </div>
+
+
+<div id="footer" class="clearfix">
+    <div id="foot-left">
+        <a href="http://www.origomediagroup.hu/" title="Origo Media Group" id="foot-logo">Origo Media Group</a>
+        <p>Az origo kiadója az Origo Zrt.</p>
+        <p>Minden jog fenntartva</p>
+    </div>
+    <div id="foot-center">
+        <ul>
+            <li><a href="mailto:origo@origo.hu" title="Írjon nekünk" id="foot-irjon">Írjon nekünk</a></li>
+            <li><a href="http://www.origo.hu/zanza/" title="Hírlevél" id="foot-hl">Hírlevél</a></li>
+            <li><a href="http://www.origo.hu/mobil" title="Platformok" id="foot-platform">Platformok</a></li>
+            <li><a href="http://www.origo.hu/cimkefelho/" title="Címkék" id="foot-cimkek">Címkék</a></li>
+            <li><a href="http://www.origo.hu/hir-archivum/" title="Archívum" id="foot-archiv">Archívum</a></li>
+            <li><a href="http://www.origomediagroup.hu/index.html?pid=9" title="Hirdessen" id="foot-hirdess">Hirdessen!</a></li>
+        </ul>
+    </div>
+    <div id="foot-right">
+        <div id="foot-social">
+            <p>Kövessen minket!</p>
+            <ul>
+                <li><a href="http://www.origo.hu/site/kozosseg/index.html" title="Origo Facebook" id="foot-fb"></a></li>
+                <li><a href="http://www.origo.hu/site/kozosseg/index.html" title="Origo Twitter" id="foot-tw"></a></li>
+                <li><a href="http://www.origo.hu/site/kozosseg/index.html" title="Origo RSS" id="foot-rss"></a></li>
+            </ul>
+        </div>
+    </div>
+    <div id="foot-end">
+        <a href="http://www.origo.hu/site/impresszum/index.html" title="Impresszum">Impresszum</a>
+        <a href="http://www.origo.hu/privacy/20020710nyilatkozat.html" title="Adatkezelési szabályzat">Adatkezelési szabályzat</a>
+        <a href="http://www.origo.hu/adhouse/index.html" title="Médiaajánlat">Médiaajánlat</a>
+    </div>
+</div>
+<!-- /#footer -->
+
+        </div>
+        <script type="text/javascript" src="http://static.origos.hu/s/2/js/kozos/jquery-1.7.2.min.js"></script>
+        <script type="text/javascript" src="http://static.origos.hu/s/2/js/uzletresz/lib/mustache.min.js"></script>
+
+        <script type="text/javascript" src="http://static.origos.hu/s/partners/investor/js/functions.js"></script>
+        <!--[if lt IE 9]>
+        <script type="text/javascript" src="http://static.origos.hu/s/partners/investor/js/excanvas.min.js" language="javascript"></script>
+        <![endif]-->
+        <!-- <script type="text/javascript" src="http://static.origos.hu/s/partners/investor/js/jquery.jqplot.min.js"></script> -->
+        <script type="text/javascript" src="http://static.origos.hu/s/partners/investor/js/jquery.jqplot.js"></script>
+        <script type="text/javascript" src="http://static.origos.hu/s/partners/investor/js/plugins/jqplot.dateAxisRenderer.min.js"></script>
+        <script type="text/javascript" src="http://static.origos.hu/s/partners/investor/js/plugins/jqplot.ohlcRenderer.min.js"></script>
+        <script type="text/javascript" src="http://static.origos.hu/s/partners/investor/js/plugins/jqplot.categoryAxisRenderer.min.js"></script>
+        <script type="text/javascript" src="http://static.origos.hu/s/partners/investor/js/plugins/jqplot.canvasTextRenderer.min.js"></script>
+        <script type="text/javascript" src="http://static.origos.hu/s/partners/investor/js/plugins/jqplot.canvasAxisTickRenderer.min.js"></script>
+        <script type="text/javascript" src="http://static.origos.hu/s/partners/investor/js/jquery-ui.min.js" class="include"></script>
+        <script type="text/javascript" src="http://static.origos.hu/s/partners/investor/js/plugins/jqplot.barRenderer.min.js"></script>
+        <script type="text/javascript" src="http://static.origos.hu/s/partners/investor/js/plugins/jqplot.pointLabels.min.js"></script>
+        <script type="text/javascript" src="http://static.origos.hu/s/partners/investor/js/plugins/jqplot.canvasOverlay.min.js"></script>
+
+<script type="text/javascript" src="
+http://static.origos.hu/s/2014031832210/
+js/komment/okapu.js"></script>
+<script type="text/javascript" src="
+http://static.origos.hu/s/2014031832210/
+js/komment/kommentfe.js"></script>
+<script type="text/javascript" src="
+http://static.origos.hu/s/2014031832210/
+js/komment/custom.select.js"></script>
+<script type="text/javascript">
+function getCommentNumber(number){
+	if (parseInt(number, 10) < 0)
+	{
+		$('#comment-count').addClass('inactive');
+		$('#comment-count').mouseover(function(){
+			$('#article-share').append('<div id="comment-hover" class="comment-hover"><p>Ehhez cikkhez nem lehet hozzászólni!</p></div>');	
+		})
+		$('#comment-count, #comment-hover').mouseout(function(){
+			$('.comment-hover').each(function(){
+				$(this).remove();
+				})
+		})
+	} else
+	{
+		if (parseInt(number, 10) > 0){
+			document.getElementById('comment-count').innerHTML = '<b>'+number+'</b><span>komment</span>';
+		}
+		$('#comment-count').click(function(){
+			$('body,html').animate({ scrollTop: $('#article-text').offset().top+$('#article-text').height() });
+		});
+	}
+	
+}
+kommentfe.onGotCommentCount(getCommentNumber);
+kommentfe.initPage();
+</script>
+
+<script type="text/javascript" src="
+http://static.origos.hu/s/2014031832210/
+js/uzletresz/custom.js"></script>
+<script type="text/javascript" src="
+http://static.origos.hu/s/2014031832210/
+js/uzletresz/season.js"></script>
+
+        <script type="text/javascript" src="
+http://static.origos.hu/s/2014031832210/
+js/uzletresz/uzletresz.js"></script>
+        <script type="text/javascript" src="
+http://static.origos.hu/s/2014031832210/
+js/uzletresz/uzletresz.cikk.js"></script>
+
+
+<script type="text/javascript">
+//Penzugy
+zoneCikkKozi_1 = 2474908;
+zoneCikkKozi_2 = 2474909;
+zoneCikkKozi_3 = 2474910;
+zoneCikkAlatti = 2528820;
+if (typeof cimkeCikkozi !== 'undefined') {
+cimkeCikkozi.add('számlázás',2565890);
+}
+</script>
+
+
+
+<!-- MÉRŐKÓDOK -->
+
+<!-- (C)2000-2010 Gemius SA - gemiusAudience -->
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var pp_gemius_identifier = new String('By.lRu_ziTDJBgG5aJ9sd7SmzdsySQLKIRJuppgvs8n.z7');
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://gahu.hit.gemius.pl/xgemius.js"></script>
+
+<script type="text/javascript">//<![CDATA[
+function median_webaudit() {
+  var d=document,s=screen?screen.width+'x'+screen.height:"";
+  var u=d.URL?new String(d.URL):"";
+  var r=d.referrer?new String(d.referrer):"";
+  return "@s="+s+"@u="+escape(u.substring(0,183))+"@r="+escape(r.substring(0,127));
+}
+var same=Math.floor(Math.random()*100000000)+median_webaudit();
+//]]></script>
+<SCRIPT language="JavaScript">
+<!--
+document.write('<!-- Medián WebAudit redesign 1/2 --><img style="position:absolute;top:-100px;left:-100px" src="http://audit.median.hu/cgi-bin/track.cgi?uc=13745660098334&dc=1&ui='+same+'" width="1" height="1" />');
+//-->
+</SCRIPT>
+<NOSCRIPT>
+<!-- Medián WebAudit redesign 1/2 -->
+<img style="position:absolute;top:-100px;left:-100px" src="http://audit.median.hu/cgi-bin/track.cgi?uc=13745660098334&dc=1" width="1" height="1" />
+</NOSCRIPT>
+
+
+<script type="text/javascript">
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+	ga('create', 'UA-42004840-1', 'uzletresz.hu');
+	ga('send', 'pageview');
+</script>
+
+<!-- MÉRŐKÓDOK -->
+
+
+<script type="text/javascript" charset="utf-8" src="http://ad.adverticum.net/g3.js"></script>
+
+
+</body></html>

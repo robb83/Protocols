@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C325DA50-364B-462E-BA19-35091C10B904}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Protocol.ProtoBuffers</RootNamespace>
+    <AssemblyName>Protocol.ProtoBuffers</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>TRACE;DEBUG;VISUAL_DEBUG</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Attributes.cs" />
+    <Compile Include="BufferPool.cs" />
+    <Compile Include="Serializer\Complex\ListSerializer.cs" />
+    <Compile Include="Serializer\Complex\TypeSerializer.cs" />
+    <Compile Include="Serializer\Decorators\PrimitivesDecorator.cs" />
+    <Compile Include="Serializer\Decorators\TypeDecorator.cs" />
+    <Compile Include="IProtoSerializer.cs" />
+    <Compile Include="Serializer\Primitives\BooleanSerializer.cs" />
+    <Compile Include="Serializer\Primitives\ByteArraySerializer.cs" />
+    <Compile Include="Serializer\Primitives\DateTimeSerializer.cs" />
+    <Compile Include="Serializer\Primitives\DecimalSerializer.cs" />
+    <Compile Include="Serializer\Primitives\DoubleSerializer.cs" />
+    <Compile Include="Serializer\Primitives\EnumSerializer.cs" />
+    <Compile Include="Serializer\Primitives\GuidSerializer.cs" />
+    <Compile Include="Serializer\Primitives\Int16Serializer.cs" />
+    <Compile Include="Serializer\Primitives\Int32Serializer.cs" />
+    <Compile Include="Serializer\Primitives\Int64Serializer.cs" />
+    <Compile Include="Serializer\Primitives\Int8Serializer.cs" />
+    <Compile Include="Serializer\Primitives\NullableSerializer.cs" />
+    <Compile Include="Serializer\Primitives\SingleSerializer.cs" />
+    <Compile Include="Serializer\Primitives\StringSerializer.cs" />
+    <Compile Include="Serializer\Primitives\TimeSpanSerializer.cs" />
+    <Compile Include="Serializer\Primitives\UInt16Serializer.cs" />
+    <Compile Include="Serializer\Primitives\UInt32Serializer.cs" />
+    <Compile Include="Serializer\Primitives\UInt64Serializer.cs" />
+    <Compile Include="Serializer\Primitives\UInt8Serializer.cs" />
+    <Compile Include="Serializer\Primitives\UriSerializer.cs" />
+    <Compile Include="ProtoReader.cs" />
+    <Compile Include="ProtoWriter.cs" />
+    <Compile Include="Serializers.cs" />
+    <Compile Include="Tools.cs" />
+    <Compile Include="TypeDescription.cs" />
+    <Compile Include="Values.cs" />
+    <Compile Include="WireType.cs" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
